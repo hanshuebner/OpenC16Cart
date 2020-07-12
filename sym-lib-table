@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name OpenC16Cart-rescue)(type Legacy)(uri ${KIPRJMOD}/OpenC16Cart-rescue.lib)(options "")(descr ""))
+  (lib (name C16-Exp-Port)(type Legacy)(uri ${KIPRJMOD}/C16-Exp-Port.lib)(options "")(descr ""))
+)
